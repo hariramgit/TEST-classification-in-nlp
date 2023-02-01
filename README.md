@@ -1,0 +1,74 @@
+# TEST-classification-in-nlp
+
+
+# Project Description
+## The main Objective of this project is to:
+
+# Lemmatization
+## 1.DATA CLEANING:
+- Tokenizing 
+- Remove stop words
+- Remove numbers, punctuation and special characters (only keep words)
+- Lemmatization
+
+## 2. DATA MODELING AND PREDICTING:
+  ### 1.1 Classification using word2vec vectorizer
+  - modeling the data and creating Pipeline
+
+  ### 1.2 Classification using TFIDF vectorizer
+  - modeling the data and creating Pipeline
+
+
+
+## Models and Algorithms used:
+- LabelEncoder
+- GridSearchCV
+- train_test_split
+- train_test_split
+- Word2Vec
+- Pipeline
+- GaussianNB
+- MultinomialNB
+- Support Vector Classifier
+- DecisionTreeClassifier
+- MLPClassifier
+- GradientBoostingClassifier
+
+
+
+
+## 👩‍💻 Libraries used
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-ffee4a?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/scikitlearn-0969DA.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/Matplotlib-fe9600?style=for-the-badge&logo=matplotlib&logoColor=white)
+![](https://img.shields.io/badge/seaborn-0A3069?style=for-the-badge&logo=Seaborn&logoColor=white)
+![](https://img.shields.io/badge/Scipy-B6E3FF?style=for-the-badge&logo=Scipy&logoColor=white
+data:image/png;base64,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
+
+## we performed the following features in this project;
+1. **
+
+## Find the datasets from here 
+
+https://github.com/hariramgit/TEST-classification-in-nlp/blob/master/bbc-text-dataset.csv
+Those datasets are obtained from BBC datasets from KAGGLE
+
+## 📋 Tasks Performed
+* 💻 Exploratory Data Analysis 
+* 🧹 Data Cleaning (Handling Missing Values, Standardising values) 
+* 📊 Data Visualization
+
+
+## Organization
+- Repository "(https://github.com/hariramgit/-VIOLENT-CRIME-ANAYSIS-/blob/main/Crime_analysis.ipynb)": you may find the main Python Notebooks produced by me to realize the analysis, visualisations and predictive models.
+
+
+## ✍️ Author
+HARIRAM
+* [Email](mailto:hariramhdmp@gmail.com)
+
+
+## 🤝 Support
+
+Give a STAR if you like this project! and FOLLOW do SUPPORT Friends.
