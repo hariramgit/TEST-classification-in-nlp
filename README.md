@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Matplotlib-fe9600?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![](https://img.shields.io/badge/seaborn-0A3069?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-B6E3FF?style=for-the-badge&logo=Scipy&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-084156?style=for-the-badge&logo=numpy&logoColor=0C96C8)
+![NITK](https://img.shields.io/badge/NLTK-084156?style=for-the-badge&logo=NLTK&logoColor=0C96C8)
 
 
 ## we performed the following features in this project;
