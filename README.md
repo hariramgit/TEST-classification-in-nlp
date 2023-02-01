@@ -4,7 +4,7 @@
 # Project Description
 ## The main Objective of this project is to:
 
-# Lemmatization
+
 ## 1.DATA CLEANING:
 - Tokenizing 
 - Remove stop words
@@ -39,19 +39,13 @@
 
 ## 👩‍💻 Libraries used
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-
 ![Numpy](https://img.shields.io/badge/Numpy-ffee4a?style=for-the-badge&logo=numpy&logoColor=white)
-
 ![](https://img.shields.io/badge/scikitlearn-0969DA.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
 ![](https://img.shields.io/badge/Matplotlib-fe9600?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ![](https://img.shields.io/badge/seaborn-0A3069?style=for-the-badge&logo=Seaborn&logoColor=white)
-
 ![](https://img.shields.io/badge/Scipy-B6E3FF?style=for-the-badge&logo=Scipy&logoColor=white)
-
 ![NITK](https://img.shields.io/badge/NLTK-084156?style=for-the-badge&logo=NLTK&logoColor=0C96C8)
-
 ![GENSIM](https://img.shields.io/badge/GENSIM-2640A9?style=for-the-badge&logo=GENSIM&logoColor=CFD6F1)
 
 
@@ -68,7 +62,7 @@ Those datasets are obtained from BBC datasets from KAGGLE
 
 
 ## Organization
-- Repository "(https://github.com/hariramgit/-VIOLENT-CRIME-ANAYSIS-/blob/main/Crime_analysis.ipynb)": you may find the main Python Notebooks produced by me to realize the analysis, visualisations and predictive models.
+- Repository "(https://github.com/hariramgit/TEST-classification-in-nlp/blob/master/code/test%20classification%20jupyter%20notebook.ipynb)": you may find the main Python Notebooks produced by me to realize the analysis, visualisations and predictive models.
 
 
 ## ✍️ Author
