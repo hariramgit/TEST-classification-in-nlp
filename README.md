@@ -44,7 +44,7 @@
 ![](https://img.shields.io/badge/Matplotlib-fe9600?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![](https://img.shields.io/badge/seaborn-0A3069?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-B6E3FF?style=for-the-badge&logo=Scipy&logoColor=white)
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F592%2F1*YM2HXc7f4v02pZBEO8h-qw.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40kelsklane%2Fthe-natural-language-toolkit-what-is-it-8ca335dce6a9&tbnid=GyWJ7vQXC79sYM&vet=12ahUKEwiexcHFq_T8AhWgMLcAHe67BI0QMygAegUIARDEAQ..i&docid=TIdM47zZLgWTuM&w=592&h=644&q=nltk%20logo&ved=2ahUKEwiexcHFq_T8AhWgMLcAHe67BI0QMygAegUIARDEAQ
+
 
 ## we performed the following features in this project;
 1. **
