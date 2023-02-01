@@ -45,7 +45,7 @@
 ![](https://img.shields.io/badge/seaborn-0A3069?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![](https://img.shields.io/badge/Scipy-B6E3FF?style=for-the-badge&logo=Scipy&logoColor=white)
 ![NITK](https://img.shields.io/badge/NLTK-084156?style=for-the-badge&logo=NLTK&logoColor=0C96C8)
-
+![GENSIM](https://img.shields.io/badge/GENSIM-2640A9?style=for-the-badge&logo=GENSIM&logoColor=CFD6F1)
 
 ## we performed the following features in this project;
 1. **
