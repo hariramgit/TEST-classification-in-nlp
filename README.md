@@ -24,7 +24,6 @@
 - LabelEncoder
 - GridSearchCV
 - train_test_split
-- train_test_split
 - Word2Vec
 - Pipeline
 - GaussianNB
