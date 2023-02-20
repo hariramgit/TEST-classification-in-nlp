@@ -12,13 +12,10 @@
 - Lemmatization
 
 ## 2. DATA MODELING AND PREDICTING:
-  ### 1.1 Classification using word2vec vectorizer
-  - modeling the data and creating Pipeline
-
-  ### 1.2 Classification using TFIDF vectorizer
-  - modeling the data and creating Pipeline
-
-
+ 
+ 
+  ### "Creating a powerful test classification model with a Pipeline that combines the best of both worlds - word2vec vectorizer and TFIDF vectorizer. 
+ 
 
 ## Models and Algorithms used:
 - LabelEncoder
